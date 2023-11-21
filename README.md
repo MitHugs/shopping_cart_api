@@ -1,1 +1,3 @@
 # shopping_cart_api
+Initalizing the Spring packages was giving me issues I couldn't resolve so unfortunately there isn't any spring annotations to help out...
+However I will mark where I would put the annotations with comments explaining where they are. 
