@@ -1,3 +1,6 @@
 # shopping_cart_api
-Initalizing the Spring packages was giving me issues I couldn't resolve so unfortunately there isn't any spring annotations to help out...
-However I will mark where I would put the annotations with comments explaining where they are. 
+The inital files I worked with within the 1.5 hour time constraint are in the `initial_assessment` folder. 
+Otherwise, the complete API is found within the `server` folder.
+
+H2 was the database of choice, mainly because it was simple to use for this exercise. 
+
